@@ -1,0 +1,25 @@
+{
+  "name": "jscourse",
+  "version": "1.0.0",
+  "description": "Project for Chai test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "testchai": "chai"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grand1991/JSCourse.git"
+  },
+  "author": "GA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Grand1991/JSCourse/issues"
+  },
+  "homepage": "https://github.com/Grand1991/JSCourse#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chai-date": "^1.0.0",
+    "mocha": "^6.1.4"
+  }
+}
