@@ -15,6 +15,5 @@ describe('Homework1 TestSuite', () => {
         const date1 = new Date('12/13/2010');
         const date2 = new Date('12/15/2010');
         dates.daysDifference(date1, date2);
-        console.log(date2);
     });
 });
